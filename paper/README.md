@@ -4,8 +4,8 @@
 
 **Authors:** Meenakshi G, Kabel B, and Dayalin Leena G  
 **Conference:** 2026 International Conference on Computing, Communication and Wireless Networks (ICCWN)  
-**Status:** Accepted; publication forthcoming.
+**Publication:** Forthcoming — November 2026 (proceedings details and DOI pending).
 
 This paper is the primary reference for the methodology, experimental protocol, results and limitations documented in this repository.
 
-The final proceedings citation, DOI and publisher URL will be added after publication. The manuscript is not duplicated here pending confirmation of the conference e-copyright and redistribution terms.
+The final proceedings citation, DOI and publisher URL will be added after the official publication record is available. The manuscript is not duplicated here pending confirmation of the conference e-copyright and redistribution terms.

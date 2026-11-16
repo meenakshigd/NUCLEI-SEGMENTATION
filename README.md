@@ -38,9 +38,9 @@ The current repository snapshot contains exported HTML artifacts for Stages 1, 4
 
 Authors: Meenakshi G, Kabel B, and Dayalin Leena G  
 Conference: ICCWN 2026  
-Status: Accepted; publication forthcoming.
+Publication: Forthcoming — November 2026 (proceedings details and DOI pending).
 
-The DOI and official proceedings link will be added when issued.
+The publication status and bibliographic details will be updated when the official proceedings record is available.
 
 ## Scope
 Morphological feature analysis, spatial graph construction and graph-neural-network-based cancer classification are future directions, not implemented components of this study.
